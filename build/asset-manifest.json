@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tour-and-Travels-Web/static/css/main.dcea38b5.css",
+    "main.js": "/Tour-and-Travels-Web/static/js/main.1d077d73.js",
+    "static/media/home2.jpg": "/Tour-and-Travels-Web/static/media/home2.84d5235cc693e15661d6.jpg",
+    "static/media/2-ea8da66e.jpg": "/Tour-and-Travels-Web/static/media/2-ea8da66e.bbb41348bb839b9124d8.jpg",
+    "static/media/contact.jpg": "/Tour-and-Travels-Web/static/media/contact.509d4d795248ac9962f3.jpg",
+    "static/media/12-e8cd6909.jpg": "/Tour-and-Travels-Web/static/media/12-e8cd6909.257c5311e1cae5638aad.jpg",
+    "static/media/indonesia.jpg": "/Tour-and-Travels-Web/static/media/indonesia.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/malaysia.jpg": "/Tour-and-Travels-Web/static/media/malaysia.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/france.jpg": "/Tour-and-Travels-Web/static/media/france.c405c8228d51cdef5d0f.jpg",
+    "static/media/home1.jpg": "/Tour-and-Travels-Web/static/media/home1.0c7885e97d08f0a61db1.jpg",
+    "static/media/about.jpg": "/Tour-and-Travels-Web/static/media/about.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Tour-and-Travels-Web/index.html",
+    "main.dcea38b5.css.map": "/Tour-and-Travels-Web/static/css/main.dcea38b5.css.map",
+    "main.1d077d73.js.map": "/Tour-and-Travels-Web/static/js/main.1d077d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcea38b5.css",
+    "static/js/main.1d077d73.js"
+  ]
+}
